@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+ .navbar{
+    background-color: #2C3639;
+    height: 4rem;
+
+   
+}
+
+
+.navbar a{
+    color: #A27B5C;
+    font-size: medium;
+    font-weight:600;
+    
+    font-family: 'Lato', sans-serif;
+}
+.container-fluid .navbar-brand:hover{
+    color:#A27B5C ;
+}
+.navbar a:hover{
+    color: #DCD7C9;
+}
+
+
+
+.image img{
+    height: 79vh;
+    width: 100vw;
+}
+
+
+.footer p{
+    height: 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #2C3639;
+    color:  #A27B5C;
+    font-size: medium;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+

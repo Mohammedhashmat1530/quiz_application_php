@@ -1,0 +1,31 @@
+body {
+    background-color: #1B9C85;
+}
+
+.container {
+    position: relative;
+    top: 52px;
+}
+
+.quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0.4px 0.4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.question {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.option label {
+    margin-bottom: 10px;
+}
+
+.dummy {
+    position: relative;
+    left: 356px;
+}
