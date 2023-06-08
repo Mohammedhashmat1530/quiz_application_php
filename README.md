@@ -4,7 +4,6 @@
 this application deals with taking quiz on php for now....
 In the near future ...more subjects will be added
 
-
 Future Basic Updates:
 1)few bugs
 2)css properties should be added in question_add.php
